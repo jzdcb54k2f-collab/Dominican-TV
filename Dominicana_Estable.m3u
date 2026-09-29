@@ -1,0 +1,44 @@
+#EXTM3U
+# Lista Dominicana Estable - 14 canales
+
+#EXTINF:-1 group-title="Republica Dominicana",RTVD 4 HD
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Telemicro 5
+https://live2.telemicro.com.do/live/55/playlist.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Canal 6 El Seis HD
+https://stream.elseis.do/canal6/live_1080.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Antena 7
+https://hls.tvabierta.net/hls/007.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Color Vision 9
+https://ds.tvabierta.net/memfs/2493e646-b24d-489b-8603-0879abb93123.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Telesistema 11
+https://hls.tvabierta.net/hls/011.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Telecentro 13 HD
+https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Digital 15 HD
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Teleantillas
+https://hls.tvabierta.net/hls/010.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",RNN 27 HD
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Telecanal 28 HD
+https://edge.essastream.com/telecanal28/index.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Teleuniverso 29
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Canal del Sol HD
+https://stream.canaldelsol.com/sol26/master.m3u8
+
+#EXTINF:-1 group-title="Republica Dominicana",Ready TV HD
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
